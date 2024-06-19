@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Usuarios>
+    <Usuario>
+        <UsuarioID>101</UsuarioID>
+        <Nombre>Juan</Nombre>
+        <Apellidos>González</Apellidos>
+        <Identificacion>12345</Identificacion>
+        <TipoIdentificacion>Cedula</TipoIdentificacion>
+        <Genero>Masculino</Genero>
+        <EstadoCivil>Soltero</EstadoCivil>
+        <FechaNacimiento>1990-01-01</FechaNacimiento>
+        <Rol>Medico</Rol>
+        <Usuario>medico1</Usuario>
+        <Password>123456</Password>
+		<Estado>Activo</Estado>
+    </Usuario>
+    <Usuario>
+        <UsuarioID>201</UsuarioID>
+        <Nombre>Maria</Nombre>
+        <Apellidos>Rodríguez</Apellidos>
+        <Identificacion>67890</Identificacion>
+        <TipoIdentificacion>Cedula</TipoIdentificacion>
+        <Genero>Femenino</Genero>
+        <EstadoCivil>Casado</EstadoCivil>
+        <FechaNacimiento>1985-04-15</FechaNacimiento>
+        <Rol>Admin</Rol>
+        <Usuario>admin1</Usuario>
+        <Password>123456</Password>
+		<Estado>Activo</Estado>
+    </Usuario>
+    <Usuario>
+        <UsuarioID>303</UsuarioID>
+        <Nombre>Carlos</Nombre>
+        <Apellidos>Martínez</Apellidos>
+        <Identificacion>54321</Identificacion>
+        <TipoIdentificacion>Cedula</TipoIdentificacion>
+        <Genero>Masculino</Genero>
+        <EstadoCivil>Soltero</EstadoCivil>
+        <FechaNacimiento>1975-08-20</FechaNacimiento>
+        <Rol>Paciente</Rol>
+        <Usuario>paciente1</Usuario>
+        <Password>123456</Password>
+		<Estado>Activo</Estado>
+    </Usuario>
+</Usuarios>

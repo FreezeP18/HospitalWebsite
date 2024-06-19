@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Citas>
+  <Cita>
+    <Paciente>
+      <Id>1</Id>
+      <Nombre>Marcos</Nombre>
+      <Apellidos>Tulio</Apellidos>
+    </Paciente>
+    <Medico>
+      <Nombre>Juan</Nombre>
+      <Apellidos>Pérez</Apellidos>
+      <Especialidad>Cardiología</Especialidad>
+    </Medico>
+    <Enfermedad>
+      <Nombre>Malaria</Nombre>
+      <Sintomas>1. Fiebre de más de 40°. 2. Sudoración. 3.Dolor de cabeza intenso. 4.Coloración amarillenta de la piel (ictericia).</Sintomas>
+    </Enfermedad>
+    <MedicamentoRecetado>
+      <ID>0001</ID>
+      <Nombre>Lovastatina</Nombre>
+      <Codigo>MS0001</Codigo>
+    </MedicamentoRecetado>
+    <Fecha>2024-03-12</Fecha>
+    <Hora>12:50:22</Hora>
+  </Cita>
+  <Cita>
+    <Paciente>
+      <Id>123456789</Id>
+      <Nombre>Benito</Nombre>
+      <Apellidos>Juarez</Apellidos>
+    </Paciente>
+    <Medico>
+      <Nombre>Ricardo</Nombre>
+      <Apellidos>Rivera</Apellidos>
+      <Especialidad>Endocrinología</Especialidad>
+    </Medico>
+    <Enfermedad>
+      <Nombre>Conjuntivitis</Nombre>
+      <Sintomas>1. Picazon en los ojos. 2 . Tener más cantidad de lágrimas</Sintomas>
+    </Enfermedad>
+    <MedicamentoRecetado>
+      <ID>007</ID>
+      <Nombre>aspirina</Nombre>
+      <Codigo>MS0007</Codigo>
+    </MedicamentoRecetado>
+    <Fecha>2024-03-17</Fecha>
+    <Hora>20:20:07</Hora>
+  </Cita>
+</Citas>

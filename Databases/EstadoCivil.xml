@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EstadosCiviles>
+	<EstadoCivil>
+		<ID>1</ID>
+		<Nombre>Soltero/a</Nombre>
+	</EstadoCivil>
+	<EstadoCivil>
+		<ID>2</ID>
+		<Nombre>Casado/a</Nombre>
+	</EstadoCivil>
+	<EstadoCivil>
+		<ID>3</ID>
+		<Nombre>Unión Libre</Nombre>
+	</EstadoCivil>
+	<EstadoCivil>
+		<ID>4</ID>
+		<Nombre>Divorciado/a</Nombre>
+	</EstadoCivil>
+	<EstadoCivil>
+		<ID>5</ID>
+		<Nombre>Viudo/a</Nombre>
+	</EstadoCivil>
+</EstadosCiviles>
+

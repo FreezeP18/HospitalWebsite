@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Medicamentos>
+  <Medicamento>
+    <MedicamentoId>0001</MedicamentoId>
+    <NombreMed>Lovastatina</NombreMed>
+    <Presentacion>Blíster-10</Presentacion>
+    <Concentracion>20mg</Concentracion>
+    <CodigoMS>MS0001</CodigoMS>
+    <CasaFarmaceutica>Kimberly-Clark</CasaFarmaceutica>
+  </Medicamento>
+  <Medicamento>
+    <MedicamentoId>0002</MedicamentoId>
+    <NombreMed>Paracetamol</NombreMed>
+    <Presentacion>Blíster-20</Presentacion>
+    <Concentracion>500mg</Concentracion>
+    <CodigoMS>MS0002</CodigoMS>
+    <CasaFarmaceutica>Bayer</CasaFarmaceutica>
+  </Medicamento>
+  <Medicamento>
+    <MedicamentoId>0003</MedicamentoId>
+    <NombreMed>Visine</NombreMed>
+    <Presentacion>Frasco</Presentacion>
+    <Concentracion>15ml</Concentracion>
+    <CodigoMS>MS0003</CodigoMS>
+    <CasaFarmaceutica>C.C.S.S.</CasaFarmaceutica>
+  </Medicamento>
+  <Medicamento>
+    <MedicamentoId>0004</MedicamentoId>
+    <NombreMed>Crema de Rosas</NombreMed>
+    <Presentacion>Tubo-Pasta</Presentacion>
+    <Concentracion>40mg</Concentracion>
+    <CodigoMS>MS0004</CodigoMS>
+    <CasaFarmaceutica>C.C.S.S.</CasaFarmaceutica>
+  </Medicamento>
+  <Medicamento>
+    <MedicamentoId>0005</MedicamentoId>
+    <NombreMed>Dexametasona</NombreMed>
+    <Presentacion>Inyectable</Presentacion>
+    <Concentracion>05ml</Concentracion>
+    <CodigoMS>1. MS0005</CodigoMS>
+    <CasaFarmaceutica>AstraZeneca</CasaFarmaceutica>
+  </Medicamento>
+  <Medicamento>
+    <MedicamentoId>0006</MedicamentoId>
+    <NombreMed>Salbutamol </NombreMed>
+    <Presentacion>Innalador</Presentacion>
+    <Concentracion>04mg</Concentracion>
+    <CodigoMS>MS0006</CodigoMS>
+    <CasaFarmaceutica>Pfizer</CasaFarmaceutica>
+  </Medicamento>
+  <Medicamento>
+    <MedicamentoId>007</MedicamentoId>
+    <NombreMed>aspirina</NombreMed>
+    <Presentacion>blister 10</Presentacion>
+    <Concentracion>20 mg</Concentracion>
+    <CodigoMS>MS0007</CodigoMS>
+    <CasaFarmaceutica>Bayer</CasaFarmaceutica>
+  </Medicamento>
+</Medicamentos>

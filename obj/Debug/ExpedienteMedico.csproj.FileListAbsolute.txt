@@ -1,0 +1,160 @@
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\obj\Debug\ExpedienteMedico.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\ExpedienteMedico.dll.config
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\ExpedienteMedico.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\ExpedienteMedico.pdb
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\csc.exe
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\csc.exe.config
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\csc.rsp
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\csi.exe
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\csi.exe.config
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\csi.rsp
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.AppContext.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.Console.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.Net.Http.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\vbc.exe
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\vbc.exe.config
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\vbc.rsp
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\Antlr3.Runtime.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\Newtonsoft.Json.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\System.Net.Http.Formatting.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\System.Web.Http.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\System.Web.Http.WebHost.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\System.Web.Optimization.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\WebGrease.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\System.Web.Optimization.xml
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\Newtonsoft.Json.xml
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\Antlr3.Runtime.pdb
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\System.Net.Http.Formatting.xml
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\System.Web.Http.xml
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\System.Web.Http.WebHost.xml
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\obj\Debug\ExpedienteMedico.csproj.CopyComplete
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\obj\Debug\ExpedienteMedico.dll
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\obj\Debug\ExpedienteMedico.pdb
+C:\Users\Gabriel Villalobos\source\nehilor\expediente-medico-uh\obj\Debug\ExpedienteMedico.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\ExpedienteMedico.dll.config
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\ExpedienteMedico.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\ExpedienteMedico.pdb
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\csc.exe
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\csc.exe.config
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\csc.rsp
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\csi.exe
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\csi.exe.config
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\csi.rsp
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.AppContext.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.Console.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.IO.Compression.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.Net.Http.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.Net.Sockets.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.ValueTuple.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\vbc.exe
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\vbc.exe.config
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\vbc.rsp
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\VBCSCompiler.exe
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\Antlr3.Runtime.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\Newtonsoft.Json.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\System.Net.Http.Formatting.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\System.Web.Http.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\System.Web.Http.WebHost.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\System.Web.Optimization.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\WebGrease.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\System.Web.Optimization.xml
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\Newtonsoft.Json.xml
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\Antlr3.Runtime.pdb
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\System.Net.Http.Formatting.xml
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\System.Web.Http.xml
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\System.Web.Http.WebHost.xml
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\obj\Debug\ExpedienteMedico.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\obj\Debug\ExpedienteMedico.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\obj\Debug\Expedien.A612ADEC.Up2Date
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\obj\Debug\ExpedienteMedico.dll
+C:\Users\sebas\OneDrive\Documentos\GitHub\expediente-medico-uh\obj\Debug\ExpedienteMedico.pdb

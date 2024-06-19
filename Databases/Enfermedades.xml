@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Enfermedades>
+  <Enfermedad>
+    <EnfermedadId>0001</EnfermedadId>
+    <NombreEnf>Malaria</NombreEnf>
+    <Sintomas>1. Fiebre de más de 40°. 2. Sudoración. 3.Dolor de cabeza intenso. 4.Coloración amarillenta de la piel (ictericia).</Sintomas>
+    <CodigoOMS>OMS-0001</CodigoOMS>
+    <Paises>Colombia, Ghana, Cambodia</Paises>
+    <Tratamiento>1. Bajar la temperatura con compresas frias. 2.Hidroxicloroquina 3. Reposo. 4. Aislamiento.</Tratamiento>
+    <Descubridor>Charles Louis Alphonse Laveran(N:1845 M:1922)</Descubridor>
+  </Enfermedad>
+  <Enfermedad>
+    <EnfermedadId>0002</EnfermedadId>
+    <NombreEnf>Colera</NombreEnf>
+    <Sintomas>1. Diarrea y vomito. 2. Dolor de cabeza. </Sintomas>
+    <CodigoOMS>OMS-0002</CodigoOMS>
+    <Paises>Nigeria, Malasia</Paises>
+    <Tratamiento>System.Web.UI.HtmlControls.HtmlInputText</Tratamiento>
+    <Descubridor>Roberto Koch (N:1843 M:1910)</Descubridor>
+  </Enfermedad>
+  <Enfermedad>
+    <EnfermedadId>0003</EnfermedadId>
+    <NombreEnf>Dengue</NombreEnf>
+    <Sintomas>1. Dolor en articulaciones y huesos 2. Fiebre de más de 40° . </Sintomas>
+    <CodigoOMS>OMS-0003</CodigoOMS>
+    <Paises>Costa Rica</Paises>
+    <Tratamiento>1. Reposo. 2. Aislamiento 3.Paracetamol cada 6 h</Tratamiento>
+    <Descubridor> Carlos Juan Finlay (N:1833 M:1915)</Descubridor>
+  </Enfermedad>
+  <Enfermedad>
+    <EnfermedadId>0004</EnfermedadId>
+    <NombreEnf>Conjuntivitis</NombreEnf>
+    <Sintomas>1. Picazon en los ojos. 2 . Tener más cantidad de lágrimas </Sintomas>
+    <CodigoOMS>OMS-0004</CodigoOMS>
+    <Paises>India, Mexico</Paises>
+    <Tratamiento>System.Web.UI.HtmlControls.HtmlInputText</Tratamiento>
+    <Descubridor>Tomisaku Kawasaki y otros</Descubridor>
+  </Enfermedad>
+  <Enfermedad>
+    <EnfermedadId>0005</EnfermedadId>
+    <NombreEnf>Mal de Chagas</NombreEnf>
+    <Sintomas>1. Fiebre 2. Dolor de cabeza. </Sintomas>
+    <CodigoOMS>OMS-0005</CodigoOMS>
+    <Paises>Zinbawe</Paises>
+    <Tratamiento>1. Hidratación.  2. Paracetamol cada 6 horas.</Tratamiento>
+    <Descubridor>Juan Perez</Descubridor>
+  </Enfermedad>
+</Enfermedades>
